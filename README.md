@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Software Engineering, Machine Learning and Artifical Intellignece
 - 🌱 I’m currently learning Data Science/ML skills
 - 💞️ I’m looking to collaborate on ML projects 
-- 📫 How to reach me gabrielbecton2@gmail.com
+- 📫 How to reach me wbecton2@gmail.com
 
 <!---
 gbecton/gbecton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
