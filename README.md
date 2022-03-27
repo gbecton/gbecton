@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gbecton
+- 👋 Hi, I’m Gabriel
 - 👀 I’m interested in Data Science, Software Engineering, Machine Learning and Artifical Intellignece
 - 🌱 I’m currently learning Data Science/ML skills
 - 💞️ I’m looking to collaborate on Data analysis/engineering and ML projects
